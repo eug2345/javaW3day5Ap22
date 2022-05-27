@@ -20,8 +20,8 @@ public class Runner {
 	}
 
 	private static void setTea(Drink drink) {
-		System.out.println(Callable.13.28());
-		System.out.println(Callable.getFrenchTea());
+		System.out.println(Callable.setTeaDrink)();
+		System.out.println(Callable.getFrenchTea();
 		
 	}
 
